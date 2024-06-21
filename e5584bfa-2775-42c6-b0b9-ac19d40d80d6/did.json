@@ -1,0 +1,27 @@
+[
+    {
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:github.com:malaypandey-technoforte:DID-Resolve:e5584bfa-2775-42c6-b0b9-ac19d40d80d6",
+        "alsoKnownAs": [
+            "did.test@gmail.com.test"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:github.com:malaypandey-technoforte:DID-Resolve:e5584bfa-2775-42c6-b0b9-ac19d40d80d6#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:github.com:malaypandey-technoforte:DID-Resolve:e5584bfa-2775-42c6-b0b9-ac19d40d80d6",
+                "publicKeyMultibase": "z6MktMnFT8yqMs63GqnyZTeMAtsWXSAuH94LzjUZPouktnit"
+            }
+        ],
+        "authentication": [
+            "did:web:github.com:malaypandey-technoforte:DID-Resolve:e5584bfa-2775-42c6-b0b9-ac19d40d80d6#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:github.com:malaypandey-technoforte:DID-Resolve:e5584bfa-2775-42c6-b0b9-ac19d40d80d6#key-0"
+        ]
+    }
+]
